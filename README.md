@@ -1,7 +1,8 @@
 # Hello GitHub Actions
 
 > **Author & Architect:** [Robina Mirbahar](https://github.com/RobinaMirbahar) ([Google Developer Expert in Cloud & AI](https://developers.google.com/profile/u/106918534005910641104?utm_campaign=deveco_gdemembers&utm_source=deveco) · Google Cloud Champion Innovator · Co-Author of [*AI Engineering*](https://www.amazon.com/dp/B0GWCZWCF4))  
-> **Focus:** Event-Driven GitHub Actions Workflows, Custom Job Steps & Containerized Action Execution
+> 📚 **Architecture Track:** Event-Driven GitHub Actions Automation & Containerized Workflow Steps  
+> **Core Stack:** GitHub Actions YAML Workflows, Docker Container Actions, and Automated CI Triggers.
 
 ---
 
